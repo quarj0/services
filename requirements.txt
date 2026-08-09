@@ -4,7 +4,7 @@ anyio==4.14.0
 asgiref==3.11.1
 certifi==2026.6.17
 click==8.4.1
-Django==6.0.6
+Django==6.0.7
 django-cors-headers==4.9.0
 django-jazzmin==3.0.4
 djangorestframework==3.17.1
